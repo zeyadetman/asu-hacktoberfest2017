@@ -31,3 +31,5 @@ Go ahead and add a one line intro about you and add your favorite emoji (you can
 
 - Hi, my name is Rebecca and my favorite emoji is 💯
 
+- Hi, my name is Zeyad and my favorite emoji is 👀
+
